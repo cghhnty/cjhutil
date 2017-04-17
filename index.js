@@ -14,4 +14,5 @@ util.ntoCh = function(num){
     return result;
 }
 //导出
+///旧口 吕
 module.exports= util;
