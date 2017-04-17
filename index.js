@@ -13,5 +13,5 @@ util.ntoCh = function(num){
     }
     return result;
 }
-
+//导出
 module.exports= util;
